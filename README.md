@@ -1,3 +1,4 @@
+[
 {
 "device_id":30fb97d1fed95b40",
 "key": "ducat",
@@ -10,3 +11,4 @@
 "expirydate": "15-06-2027",
 "allowoffline": false
 }
+]
